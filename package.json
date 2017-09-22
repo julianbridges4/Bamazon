@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianbridges4/Bamazon.git"
+  },
+  "author": "Julian Bridges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianbridges4/Bamazon/issues"
+  },
+  "homepage": "https://github.com/julianbridges4/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.14.1"
+  }
+}
